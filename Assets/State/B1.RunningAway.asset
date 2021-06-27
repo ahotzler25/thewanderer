@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: B1.RunningAway
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: b7fd846f8fa199542807078eee7f8388, type: 2}
+  - {fileID: 11400000, guid: b7fd846f8fa199542807078eee7f8388, type: 2}
+  storyText: "You don't like the looks of the forest. You don't have the heart for
+    an adventurer. Don't worry, though: before your cowardice cuts to your heart,
+    a hooded figure appears in front of you. Do you . . . \n\n1. Run away screaming.\n2.
+    FIght the figure."

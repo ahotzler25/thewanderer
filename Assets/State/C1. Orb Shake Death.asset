@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: C1. Orb Shake Death
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 0d2016cee465cc84bbea1822621b06b6, type: 2}
+  storyText: 'You''re either too adventurous or haven''t adventured enough. The black
+    symbols swirl inside, swimming around the sides as if they were trying to escape.
+    It burned as fierce as the middle of a blacksmith''s fire. You had no time to
+    react before it seared your palm, skin sizzling, and instinctively you dropped
+    the orb. The last thing you hear is shattering glass, and when you look, black
+    shapes shoot from the orb and spin around your face. As soon as you swing at
+    a shape, it dives inside your mouth and everything goes black.
+
+
+    1. Restart
+    your adventure.'

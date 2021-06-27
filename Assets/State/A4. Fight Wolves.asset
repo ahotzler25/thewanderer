@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A4. Fight Wolves
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 2ddefe27c163138458566aaf0fdb3196, type: 2}
+  - {fileID: 11400000, guid: 9aedb041d4ae97445b33b9c3dff2a17d, type: 2}
+  storyText: "Two direwolves with matted, white hair emerge from the path you came
+    from; you sense they had been stalking you. It's difficult to accurately gauge
+    their size, but you know they stand taller than other wolves you've encountered.
+    They separate and flank you, but the orb glows brighter. The wolves keep their
+    distance, even backing up as the light expands towards them. Do you . . . \n\n1.
+    Walk forward with the orb.\n2. Draw your sword."

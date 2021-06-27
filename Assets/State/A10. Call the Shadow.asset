@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A10. Call the Shadow
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
+  storyText: "\"Gr- greetings! My name is Karthur and I'm loo . . . \" \n\nYour voice
+    echoes louder than you expected but are cut short. The howls behind you fall
+    silent then begin again, this time more fierce and each howl sounds closer. You
+    look towards where you saw the shadow, see nothing. You hear the wolves calling
+    to each other. Do you . . . \n\n1. Call out again.\n2. Run down the path."

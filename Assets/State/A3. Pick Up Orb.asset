@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A3. Pick Up Orb
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 2ed7f61dafabd0e4baf40fd134172a31, type: 2}
+  - {fileID: 11400000, guid: ee25b970321afbf4b82dd0defca1a0b8, type: 2}
+  storyText: "You pick up the orb gently with cupped hands. It's surprisingly warm.
+    Bushes rustle behind you. The longer you stare into the orb, the more it feels
+    a part of you. The orb is fairly translucent and you see black symbols inside.
+    You hear a howl behind you, followed by a second, and you know you're not alone.
+    Do you . . . \n\n1. Turn and fight.\n2. Drop the orb and run away."

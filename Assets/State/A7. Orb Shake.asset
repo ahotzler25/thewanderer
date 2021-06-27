@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A7. Orb Shake
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: e9ffb21ff8b7d5541a405291f18f586d, type: 2}
+  - {fileID: 11400000, guid: 5a9674cbe7d7dbc42a358d84c4827969, type: 2}
+  storyText: 'You shake the orb and it heats immediately, burning the palm of your
+    left hand. You swap it between your hands quickly, back and forth, as to not
+    burn yourself. You begin to panic, almost unable to breathe not knowing what
+    will happen if you drop it. You swallow hard. After swapping it back and forth
+    carefully for ten seconds, it begin to cool and very slowly returns to the dimmed
+    glow in which you found it, though the shapes look a more menacing black than
+    before. It definitely scares you, but also fascinates you. You know there''s
+    something miraculous here, but it will take time to understand it. Do you . .
+    .
+
+
+    1. Shake it again.
+
+    2. Take the rocky path in front of you deeper
+    into the forest.'

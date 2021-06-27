@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A5b. Fight With Sword
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: c21322e88156cc241babecd614725afa, type: 2}
+  storyText: 'You have a powerful relic in your left hand, but you choose to draw
+    your sword. You slice the air to your left to scare away the approaching wolf,
+    turn to slice the hair at the other. Neither wolf cares about your sword, but
+    look simultaneously scared and angered at the glowing orb.
+
+
+    1. Continue'

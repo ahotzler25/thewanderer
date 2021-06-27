@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A5. Fight With Orb
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 30da7ffc7b91ace4b949c5806e104d8f, type: 2}
+  - {fileID: 11400000, guid: ee25b970321afbf4b82dd0defca1a0b8, type: 2}
+  storyText: "You take a small step towards one wolf and it recoils from the light,
+    baring its teeth. You look over your shoulder. As it launches into the air, you
+    hold the orb up between you and the wolf. You close your eyes, grip the orb tight
+    so all your blood drains from your hand when you hear an ear-splitting scream.
+    You open your eyes to see the wolf's body burn away. The other wolf, panicking
+    and angry, rushes you, and you switch the orb to your left hand and watch as
+    the second wolf disintegrates before in the same way. Do you . . . \n\n1. Catch
+    your breath and study the orb.\n2. Curse and run screaming from the forest."

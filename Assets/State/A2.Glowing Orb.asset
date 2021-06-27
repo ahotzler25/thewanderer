@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a979998f69ea4497ab77462579bb1, type: 3}
+  m_Name: A2.Glowing Orb
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 0588dac104a31db4f850fae22b550f6c, type: 2}
+  - {fileID: 11400000, guid: ee25b970321afbf4b82dd0defca1a0b8, type: 2}
+  storyText: "You walk into the clearing and gaze down on the orb, curious as to
+    what it is and why it's here. You hear something rustle the bushes behind you.
+    You turn to look but it's gone. You look back at the orb. Something draws you
+    to it. Do you . . . \n\n1. Pick up the orb.\n2. Leave the forest."
